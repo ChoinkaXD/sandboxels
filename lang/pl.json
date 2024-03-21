@@ -529,15 +529,15 @@
 "fat": "tłuszcz",
 "potassium": "potas",
 "molten_potassium": "roztopiony_potas",
-"magnesium": "",
-"molten_magnesium": "",
+"magnesium": "magnez",
+"molten_magnesium": "stopiony_magnez,
 "sandstorm": "burza_piaskowa",
-"caustic_potash": "",
-"antibomb": "",
+"caustic_potash": "żrący_potaż",
+"antibomb": "antybomba",
 "tornado": "tornado",
 "earthquake": "trzęsienie_ziemi",
 "tsunami": "tsunami",
 "blaster": "promień",
 "propane_ice": "",
-"molten_caustic_potash": ""
+"molten_caustic_potash": "stopiony_żrący_potaż"
 }
